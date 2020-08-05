@@ -1,0 +1,22 @@
+## Interface: 80300
+## Title: JunkStatistics
+## Author: vhelkur
+## Version: 1.0
+
+## To get interface version use "/run print((select(4, GetBuildInfo())))"
+
+## To enable console errors use "/console scriptErrors 1"
+## To disable console errors use "/console scriptErrors 0"
+
+
+locale\translations.lua
+
+UsefulStuff.lua
+
+JunkStatistics.lua
+
+templates\main.xml
+
+config\config.lua
+
+init.lua
